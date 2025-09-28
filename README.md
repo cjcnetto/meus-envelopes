@@ -12,7 +12,8 @@ Para os wireframes criados foi usado a ferramenta [figma](https://www.figma.com/
 
 
 # Lean Inception
-Consulte o arquivo [canvas-url.txt](canvas-url.txt) para acessar o link do canvas.
+- Consulte o arquivo [canvas-url.txt](canvas-url.txt) para acessar o link do canvas.
+- Atalho do [link](https://miro.com/welcomeonboard/ZGR3cGZCK2ZFWFdFWHdxaXk2a0NZQnpUZkZtUklTS2dMWjEzQkJqM2wwdU04V0VlMGJMUnVXaVBNcGhIdEc2ZC91blFnQ241TWx0SzBhbkdJWkE4YlhTMWtFdXhZR3Q5U1JxclpORERkSFBndHVTUUZTRFpnanV6SVlLbWMxeGJhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=591638102842)
 
 # Backlog do Produto com a primeira sprint
  Link do [Jira](https://cjcoutinho.atlassian.net/jira/software/projects/SCRUM/summary)
