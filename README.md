@@ -17,7 +17,11 @@ Consulte o arquivo [canvas-url.txt](canvas-url.txt) para acessar o link do canva
 # Backlog do Produto com a primeira sprint
  Link do [Jira](https://cjcoutinho.atlassian.net/jira/software/projects/SCRUM/summary)
 
-Print realizado no [pdf](backlog-meus-envelopes-textual.pdf)
+## Backlog do Produto 
+(product-backlog.pdf)[product-backlog.pdf]
+
+## Primeira Sprint com as histórias detalhadas com DoR e DoD. 
+(sprint-backlog.pdf)[sprint-backlog.pdf]
 
 
 # Wireframe
